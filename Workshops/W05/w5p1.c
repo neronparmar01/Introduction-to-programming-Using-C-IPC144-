@@ -1,10 +1,10 @@
 /*
 *****************************************************************************
                           Workshop - #5 (P1)
-Full Name  : Aryan Khurana
-Student ID#: 145282216
-Email      : akhurana22@myseneca.ca
-Section    : NJJ
+
+Full Name  : Neron Parmar
+Student ID#: 171690217
+Email      : nparmar22@myseneca.ca
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
